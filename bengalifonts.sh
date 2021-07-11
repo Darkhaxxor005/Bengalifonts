@@ -9,7 +9,6 @@ then
     echo -e "Sorry, you are not eligible to install these fonts.\n";\
     exit;
 fi
-echo "Now starting to download and install all Bangla fonts..........."
 echo -e "------------------------------------\n"
 echo -e "\n"
 
@@ -137,5 +136,3 @@ echo -e "\n"
 
 echo "------------------------------------"
 echo "Download and Installation Complete !!!"
-echo -e "Script is Created by Fahad Ahammed\n"
-echo -e "Website: http://fahadahammed.com\n"
